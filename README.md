@@ -1,9 +1,6 @@
-#include <stdio.h>
-int main () {
- 👋 printf ("Hi, I’m scarlathanos");
- 👀 printf ("I’m interested in learning programming");
- 🌱 printf ("I’m currently learning C/C++");
- 📫 printf ("How to reach me : ciufuandrei12@yahoo.com");
+ 👋 print ("Hi, I’m Ciufu Andrei");
+ 👀 print ("I’m interested in learning programming");
+ 🌱 print ("I’m currently learning python");
+ 📫 print ("How to reach me : laurentiuc2005@yahoo.com");
  
- return 0;
-}
+
